@@ -1,4 +1,4 @@
-# jekyll-base
+# bazi
 
 > ⚠️ **Deprecation Notice** 🏳
 >
